@@ -1,14 +1,13 @@
-
 - [coding-practice](#coding-practice)
-  * [General Rules](#general-rules)
-  * [Yaml Rules](#yaml-rules)
-  * [Python Rules](#python-rules)
-    + [Idiomatic Python.](#idiomatic-python)
-      - [Use list comphrension instead of for loops.](#use-list-comphrension-instead-of-for-loops)
+  - [General Rules](#general-rules)
+  - [Yaml Rules](#yaml-rules)
+  - [Python Rules](#python-rules)
+    - [Idiomatic Python.](#idiomatic-python)
+      - [Use list comprehension instead of for loops.](#use-list-comprehension-instead-of-for-loops)
       - [Use slices for array operation.](#use-slices-for-array-operation)
       - [Use dictionaries and sets instead of rewriting this type of code again.](#use-dictionaries-and-sets-instead-of-rewriting-this-type-of-code-again)
-  * [Bash Rules](#bash-rules)
-  * [Git Rules](#git-rules)
+  - [Bash Rules](#bash-rules)
+  - [Git Rules](#git-rules)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -111,6 +110,10 @@ Dictionaries are versatile and generally fast.
 ## Bash Rules
 
 + Adheare to 80 columns rule.
+
++ NO trailing space at the end of line.
+
++ NO blank line above ```do```
 
 + Use HEREDOC to represent multiline strings, long commands to SSH
 
