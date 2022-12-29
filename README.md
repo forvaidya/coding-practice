@@ -71,7 +71,7 @@ There should be sufficient blank lines as a logical delimiter
 
 ### Idiomatic Python.
 
-#### Use list comphrension instead of for loops.
+#### Use list comprehension instead of for loops.
 
 Example - this list returns squares of a list in one line.
 
