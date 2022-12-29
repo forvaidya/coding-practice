@@ -41,8 +41,10 @@ filepath: >-
 This results in a string
 
 ```
-a-long-string-lorem-ipsum-foo-bar-car
+a-long-string- lorem-ipsum-foo -bar-car
 ```
+This adds a white space in between the tokens. If you dont want the space you should handel in the program.
+
 
 Line breaks can be preserved by using "|" 
 
