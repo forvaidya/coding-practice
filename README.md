@@ -1,4 +1,4 @@
-- [coding-practice](#coding-practice)
+- [coding-practice Rules](#coding-practice)
   - [General Rules](#general-rules)
   - [Yaml Rules](#yaml-rules)
   - [Python Rules](#python-rules)
@@ -11,7 +11,7 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-# coding-practice
+# coding-practice Rules
 
 ## General Rules
 
